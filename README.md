@@ -86,6 +86,8 @@ Conclusion: Our analysis provides valuable insights into the factors affecting h
 
 Recommendations: We recommend prioritizing property renovation and enhancing features like views and waterfront access to maximize property value. Regularly update and retrain the model for long-term predictive accuracy.
 
+The group [presentation](GROUP 3 PHASE 2 PRESENTATION_3.pdf) 
+
 
 
 
