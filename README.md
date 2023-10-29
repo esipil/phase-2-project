@@ -22,7 +22,7 @@ The challenge is to establish a robust data analysis framework that addresses th
 
 ## Data Understanding
 
-This project uses King County house sales dataset which can be found in [kc_house_data.csv.](./data/kc_house_data (1).csv)
+This project uses King County house sales dataset which can be found in [kc_house_data.csv.](./data/kc_house_data.csv)
 
 This data contains information about the houses in the northwestern county.
 The columns are described better in the [column_names](./data/column_names.md) file
@@ -86,7 +86,7 @@ Conclusion: Our analysis provides valuable insights into the factors affecting h
 
 Recommendations: We recommend prioritizing property renovation and enhancing features like views and waterfront access to maximize property value. Regularly update and retrain the model for long-term predictive accuracy.
 
-The group [presentation](GROUP 3 PHASE 2 PRESENTATION_3.pdf) 
+The group [presentation](GROUP3-PRESENTATION.pdf) 
 
 
 
