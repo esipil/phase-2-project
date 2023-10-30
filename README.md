@@ -15,9 +15,9 @@ The challenge is to establish a robust data analysis framework that addresses th
 ### Objectives
 
 * To determine the main features that affect the value of a home.
-* To check if there is a differnce in the price of the renovated houses and those that were not renovated
-* Quantify the effect of the above features on the value of a home.
-* To Develop a model to predict the home value.
+* To check if there is a difference in the price of the renovated houses and those that were not renovated
+* To quantify the effect of the above features on the value of a home.
+* To develop a model to predict the home value.
 
 
 ## Data Understanding
@@ -34,13 +34,13 @@ The data contains 21 columns and 21597 rows, the columns are data on 'id', 'date
 For our data analysis we focused on the features and how they correlate with price.
 
 We first checked the distribution of our target variable which is price
-![Distribution of price](image.png)
+![Distribution of price](./Images/image.png)
 
 The data is seen to be positively skewed
 
 We then checked the feature that had the highest correlation with price and plotted a scatter plot
 
-![Sqft_living Vs Price](image-1.png)
+![Sqft_living Vs Price](./Images/image-1.png)
 
 
 There is a positive correlation between living space area and the price
@@ -48,7 +48,7 @@ There is a positive correlation between living space area and the price
 
 And finally plotted a correlation matrix to help us in choosing the features for our model
 
-![Correlation matrix](image-2.png)
+![Correlation matrix](./Images/image-2.png)
 
 Positive correlations: Features like the number of bathrooms, 'sqft_living', grade, and the square footage of the house 'sqft_above' are positively correlated with house prices. This suggests that houses with more bathrooms, larger living spaces, higher grades, and more above-ground space tend to have higher prices.
 
